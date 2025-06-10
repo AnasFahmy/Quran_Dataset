@@ -1,0 +1,605 @@
+{
+  "224": {
+    "surah_number": [
+    11
+],
+    "pageData": [
+      { "line_number": 1, "line_type": "ayah", "first_word_id": 29944, "last_word_id": 29952, "text": null, "is_centered": false },
+      { "line_number": 2, "line_type": "ayah", "first_word_id": 29953, "last_word_id": 29960, "text": null, "is_centered": false },
+      { "line_number": 3, "line_type": "ayah", "first_word_id": 29961, "last_word_id": 29973, "text": null, "is_centered": false },
+      { "line_number": 4, "line_type": "ayah", "first_word_id": 29974, "last_word_id": 29982, "text": null, "is_centered": false },
+      { "line_number": 5, "line_type": "ayah", "first_word_id": 29983, "last_word_id": 29991, "text": null, "is_centered": false },
+      { "line_number": 6, "line_type": "ayah", "first_word_id": 29992, "last_word_id": 29996, "text": null, "is_centered": false },
+      { "line_number": 7, "line_type": "ayah", "first_word_id": 29997, "last_word_id": 30007, "text": null, "is_centered": false },
+      { "line_number": 8, "line_type": "ayah", "first_word_id": 30008, "last_word_id": 30013, "text": null, "is_centered": false },
+      { "line_number": 9, "line_type": "ayah", "first_word_id": 30014, "last_word_id": 30023, "text": null, "is_centered": false },
+      { "line_number": 10, "line_type": "ayah", "first_word_id": 30024, "last_word_id": 30035, "text": null, "is_centered": false },
+      { "line_number": 11, "line_type": "ayah", "first_word_id": 30036, "last_word_id": 30045, "text": null, "is_centered": false },
+      { "line_number": 12, "line_type": "ayah", "first_word_id": 30046, "last_word_id": 30055, "text": null, "is_centered": false },
+      { "line_number": 13, "line_type": "ayah", "first_word_id": 30056, "last_word_id": 30065, "text": null, "is_centered": false },
+      { "line_number": 14, "line_type": "ayah", "first_word_id": 30066, "last_word_id": 30075, "text": null, "is_centered": false },
+      { "line_number": 15, "line_type": "ayah", "first_word_id": 30076, "last_word_id": 30085, "text": null, "is_centered": false }
+    ],
+    "ayahData": [
+      { "surahID": 11, "ayahID": 20, "ayah_begin": 29944, "ayah_end": 29968, "jozz": 12 },
+      { "surahID": 11, "ayahID": 21, "ayah_begin": 29969, "ayah_end": 29978, "jozz": 12 },
+      { "surahID": 11, "ayahID": 22, "ayah_begin": 29979, "ayah_end": 29986, "jozz": 12 },
+      { "surahID": 11, "ayahID": 23, "ayah_begin": 29987, "ayah_end": 30001, "jozz": 12 },
+      { "surahID": 11, "ayahID": 24, "ayah_begin": 30002, "ayah_end": 30013, "jozz": 12 },
+      { "surahID": 11, "ayahID": 25, "ayah_begin": 30014, "ayah_end": 30023, "jozz": 12 },
+      { "surahID": 11, "ayahID": 26, "ayah_begin": 30024, "ayah_end": 30035, "jozz": 12 },
+      { "surahID": 11, "ayahID": 27, "ayah_begin": 30036, "ayah_end": 30065, "jozz": 12 },
+      { "surahID": 11, "ayahID": 28, "ayah_begin": 30066, "ayah_end": 30085, "jozz": 12 }
+    ],
+    "wordData": {
+    "29944": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "أولئك"
+    },
+    "29945": {
+        "glyph": "‏‏",
+        "emlaey": "لم"
+    },
+    "29946": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "يكونوا"
+    },
+    "29947": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "معجزين"
+    },
+    "29948": {
+        "glyph": "‏",
+        "emlaey": "في"
+    },
+    "29949": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "الأرض"
+    },
+    "29950": {
+        "glyph": "‏‏‏",
+        "emlaey": "وما"
+    },
+    "29951": {
+        "glyph": "‏‏",
+        "emlaey": "كان"
+    },
+    "29952": {
+        "glyph": "‏‏‏",
+        "emlaey": "لهم"
+    },
+    "29953": {
+        "glyph": "‏‏",
+        "emlaey": "من"
+    },
+    "29954": {
+        "glyph": "‏‏‏",
+        "emlaey": "دون"
+    },
+    "29955": {
+        "glyph": "‏‏",
+        "emlaey": "الله"
+    },
+    "29956": {
+        "glyph": "‏‏",
+        "emlaey": "من"
+    },
+    "29957": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "أولياء"
+    },
+    "29958": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "يضاعف"
+    },
+    "29959": {
+        "glyph": "‏‏‏",
+        "emlaey": "لهم"
+    },
+    "29960": {
+        "glyph": "‏‏‏‏‏‏‏",
+        "emlaey": "العذاب"
+    },
+    "29961": {
+        "glyph": "‏‏",
+        "emlaey": "ما"
+    },
+    "29962": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "كانوا"
+    },
+    "29963": {
+        "glyph": "‏‏‏‏‏‏‏‏",
+        "emlaey": "يستطيعون"
+    },
+    "29964": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "السمع"
+    },
+    "29965": {
+        "glyph": "‏‏‏",
+        "emlaey": "وما"
+    },
+    "29966": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "كانوا"
+    },
+    "29967": {
+        "glyph": "‏‏‏‏‏‏‏",
+        "emlaey": "يبصرون"
+    },
+    "29968": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "29969": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "أولئك"
+    },
+    "29970": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "الذين"
+    },
+    "29971": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "خسروا"
+    },
+    "29972": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "أنفسهم"
+    },
+    "29973": {
+        "glyph": "‏‏‏",
+        "emlaey": "وضل"
+    },
+    "29974": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "عنهم"
+    },
+    "29975": {
+        "glyph": "‏‏",
+        "emlaey": "ما"
+    },
+    "29976": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "كانوا"
+    },
+    "29977": {
+        "glyph": "‏‏‏‏‏‏‏",
+        "emlaey": "يفترون"
+    },
+    "29978": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "29979": {
+        "glyph": "‏",
+        "emlaey": "لا"
+    },
+    "29980": {
+        "glyph": "‏‏‏",
+        "emlaey": "جرم"
+    },
+    "29981": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "أنهم"
+    },
+    "29982": {
+        "glyph": "‏",
+        "emlaey": "في"
+    },
+    "29983": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "الآخرة"
+    },
+    "29984": {
+        "glyph": "‏‏",
+        "emlaey": "هم"
+    },
+    "29985": {
+        "glyph": "‏‏‏‏‏‏‏‏",
+        "emlaey": "الأخسرون"
+    },
+    "29986": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "29987": {
+        "glyph": "‏‏",
+        "emlaey": "إن"
+    },
+    "29988": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "الذين"
+    },
+    "29989": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "آمنوا"
+    },
+    "29990": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "وعملوا"
+    },
+    "29991": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "الصالحات"
+    },
+    "29992": {
+        "glyph": "‏‏‏‏‏‏‏",
+        "emlaey": "وأخبتوا"
+    },
+    "29993": {
+        "glyph": "‏‏",
+        "emlaey": "إلى"
+    },
+    "29994": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "ربهم"
+    },
+    "29995": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "أولئك"
+    },
+    "29996": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "أصحاب"
+    },
+    "29997": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "الجنة"
+    },
+    "29998": {
+        "glyph": "‏‏",
+        "emlaey": "هم"
+    },
+    "29999": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "فيها"
+    },
+    "30000": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "خالدون"
+    },
+    "30001": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "30002": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "مثل"
+    },
+    "30003": {
+        "glyph": "‏‏‏‏‏‏‏",
+        "emlaey": "الفريقين"
+    },
+    "30004": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "كالأعمى"
+    },
+    "30005": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "والأصم"
+    },
+    "30006": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "والبصير"
+    },
+    "30007": {
+        "glyph": "‏‏‏‏‏‏‏‏",
+        "emlaey": "والسميع"
+    },
+    "30008": {
+        "glyph": "‏‏",
+        "emlaey": "هل"
+    },
+    "30009": {
+        "glyph": "‏‏‏‏‏‏‏",
+        "emlaey": "يستويان"
+    },
+    "30010": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "مثلا"
+    },
+    "30011": {
+        "glyph": "‏‏‏",
+        "emlaey": "أفلا"
+    },
+    "30012": {
+        "glyph": "‏‏‏‏‏‏‏",
+        "emlaey": "تذكرون"
+    },
+    "30013": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "30014": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "ولقد"
+    },
+    "30015": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "أرسلنا"
+    },
+    "30016": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "نوحا"
+    },
+    "30017": {
+        "glyph": "‏‏",
+        "emlaey": "إلى"
+    },
+    "30018": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "قومه"
+    },
+    "30019": {
+        "glyph": "‏‏",
+        "emlaey": "إني"
+    },
+    "30020": {
+        "glyph": "‏‏‏",
+        "emlaey": "لكم"
+    },
+    "30021": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "نذير"
+    },
+    "30022": {
+        "glyph": "‏‏‏",
+        "emlaey": "مبين"
+    },
+    "30023": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "30024": {
+        "glyph": "‏‏",
+        "emlaey": "أن"
+    },
+    "30025": {
+        "glyph": "‏",
+        "emlaey": "لا"
+    },
+    "30026": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "تعبدوا"
+    },
+    "30027": {
+        "glyph": "‏‏",
+        "emlaey": "إلا"
+    },
+    "30028": {
+        "glyph": "‏‏‏",
+        "emlaey": "الله"
+    },
+    "30029": {
+        "glyph": "‏‏",
+        "emlaey": "إني"
+    },
+    "30030": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "أخاف"
+    },
+    "30031": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "عليكم"
+    },
+    "30032": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "عذاب"
+    },
+    "30033": {
+        "glyph": "‏‏‏",
+        "emlaey": "يوم"
+    },
+    "30034": {
+        "glyph": "‏‏‏",
+        "emlaey": "أليم"
+    },
+    "30035": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "30036": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "فقال"
+    },
+    "30037": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "الملأ"
+    },
+    "30038": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "الذين"
+    },
+    "30039": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "كفروا"
+    },
+    "30040": {
+        "glyph": "‏‏",
+        "emlaey": "من"
+    },
+    "30041": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "قومه"
+    },
+    "30042": {
+        "glyph": "‏‏",
+        "emlaey": "ما"
+    },
+    "30043": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "نراك"
+    },
+    "30044": {
+        "glyph": "‏‏",
+        "emlaey": "إلا"
+    },
+    "30045": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "بشرا"
+    },
+    "30046": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "مثلنا"
+    },
+    "30047": {
+        "glyph": "‏‏‏",
+        "emlaey": "وما"
+    },
+    "30048": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "نراك"
+    },
+    "30049": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "اتبعك"
+    },
+    "30050": {
+        "glyph": "‏‏",
+        "emlaey": "إلا"
+    },
+    "30051": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "الذين"
+    },
+    "30052": {
+        "glyph": "‏‏",
+        "emlaey": "هم"
+    },
+    "30053": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "أراذلنا"
+    },
+    "30054": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "بادي"
+    },
+    "30055": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "الرأي"
+    },
+    "30056": {
+        "glyph": "‏‏‏",
+        "emlaey": "وما"
+    },
+    "30057": {
+        "glyph": "‏‏‏",
+        "emlaey": "نرى"
+    },
+    "30058": {
+        "glyph": "‏‏‏",
+        "emlaey": "لكم"
+    },
+    "30059": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "علينا"
+    },
+    "30060": {
+        "glyph": "‏‏",
+        "emlaey": "من"
+    },
+    "30061": {
+        "glyph": "‏‏‏",
+        "emlaey": "فضل"
+    },
+    "30062": {
+        "glyph": "‏‏",
+        "emlaey": "بل"
+    },
+    "30063": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "نظنكم"
+    },
+    "30064": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "كاذبين"
+    },
+    "30065": {
+        "glyph": "‏",
+        "emlaey": ""
+    },
+    "30066": {
+        "glyph": "‏‏‏",
+        "emlaey": "قال"
+    },
+    "30067": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "ياقوم"
+    },
+    "30068": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "أرأيتم"
+    },
+    "30069": {
+        "glyph": "‏‏",
+        "emlaey": "إن"
+    },
+    "30070": {
+        "glyph": "‏‏‏",
+        "emlaey": "كنت"
+    },
+    "30071": {
+        "glyph": "‏",
+        "emlaey": "على"
+    },
+    "30072": {
+        "glyph": "‏‏‏‏",
+        "emlaey": "بينة"
+    },
+    "30073": {
+        "glyph": "‏‏",
+        "emlaey": "من"
+    },
+    "30074": {
+        "glyph": "‏‏",
+        "emlaey": "ربي"
+    },
+    "30075": {
+        "glyph": "‏‏‏‏‏‏",
+        "emlaey": "وآتاني"
+    },
+    "30076": {
+        "glyph": "‏‏‏",
+        "emlaey": "رحمة"
+    },
+    "30077": {
+        "glyph": "‏‏",
+        "emlaey": "من"
+    },
+    "30078": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "عنده"
+    },
+    "30079": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "فعميت"
+    },
+    "30080": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "عليكم"
+    },
+    "30081": {
+        "glyph": "‏‏‏‏‏‏‏‏‏‏",
+        "emlaey": "أنلزمكموها"
+    },
+    "30082": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "وأنتم"
+    },
+    "30083": {
+        "glyph": "‏‏‏",
+        "emlaey": "لها"
+    },
+    "30084": {
+        "glyph": "‏‏‏‏‏",
+        "emlaey": "كارهون"
+    },
+    "30085": {
+        "glyph": "‏",
+        "emlaey": ""
+    }
+}
+  }
+}

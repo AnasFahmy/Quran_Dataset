@@ -1,0 +1,57 @@
+{
+  "1": {
+    "surah_number": [
+    1
+],
+    "pageData": [
+      { "line_number": 1, "line_type": "surah_name", "first_word_id": null, "last_word_id": null, "text": null, "is_centered": true },
+      { "line_number": 2, "line_type": "ayah", "first_word_id": 1, "last_word_id": 9, "text": null, "is_centered": false },
+      { "line_number": 3, "line_type": "ayah", "first_word_id": 10, "last_word_id": 18, "text": null, "is_centered": false },
+      { "line_number": 4, "line_type": "ayah", "first_word_id": 19, "last_word_id": 27, "text": null, "is_centered": false },
+      { "line_number": 5, "line_type": "ayah", "first_word_id": 28, "last_word_id": 29, "text": null, "is_centered": false },
+      { "line_number": 6, "line_type": "ayah", "first_word_id": 30, "last_word_id": 29, "text": null, "is_centered": false },
+      { "line_number": 7, "line_type": "ayah", "first_word_id": 30, "last_word_id": 29, "text": null, "is_centered": false },
+      { "line_number": 8, "line_type": "ayah", "first_word_id": 30, "last_word_id": 29, "text": null, "is_centered": false }
+    ],
+    "ayahData": [
+      { "surahID": 1, "ayahID": 1, "ayah_begin": 1, "ayah_end": 4, "jozz": 1 },
+      { "surahID": 1, "ayahID": 2, "ayah_begin": 5, "ayah_end": 8, "jozz": 1 },
+      { "surahID": 1, "ayahID": 3, "ayah_begin": 9, "ayah_end": 10, "jozz": 1 },
+      { "surahID": 1, "ayahID": 4, "ayah_begin": 11, "ayah_end": 13, "jozz": 1 },
+      { "surahID": 1, "ayahID": 5, "ayah_begin": 14, "ayah_end": 17, "jozz": 1 },
+      { "surahID": 1, "ayahID": 6, "ayah_begin": 18, "ayah_end": 20, "jozz": 1 },
+      { "surahID": 1, "ayahID": 7, "ayah_begin": 21, "ayah_end": 29, "jozz": 1 }
+    ],
+    "wordData": {
+    "1": "‏",
+    "2": "‏‏",
+    "3": "‏‏‏‏",
+    "4": "‏‏‏‏‏‏",
+    "5": "‏‏‏‏",
+    "6": "‏",
+    "7": "‏‏",
+    "8": "‏‏‏‏‏‏",
+    "9": "‏‏‏‏",
+    "10": "‏‏‏‏‏‏",
+    "11": "‏‏‏",
+    "12": "‏‏‏",
+    "13": "‏‏‏‏",
+    "14": "‏‏‏‏",
+    "15": "‏‏‏‏",
+    "16": "‏‏‏‏",
+    "17": "‏‏‏‏‏",
+    "18": "‏‏‏‏‏",
+    "19": "‏‏‏‏‏",
+    "20": "‏‏‏‏‏‏‏‏",
+    "21": "‏‏‏",
+    "22": "‏‏‏‏",
+    "23": "‏‏‏‏‏",
+    "24": "‏‏‏‏‏",
+    "25": "‏‏‏",
+    "26": "‏‏‏‏‏‏‏",
+    "27": "‏‏‏‏‏",
+    "28": "‏‏",
+    "29": "‏‏‏‏‏‏"
+}
+  }
+}

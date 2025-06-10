@@ -1,0 +1,40 @@
+{
+  "603": {
+    "surah_number": [109, 110, 111],
+    "pageData": [
+      { "line_number": 1,  "line_type": "surah_name", "is_centered": true, "first_word_id": null, "last_word_id": null},
+      { "line_number": 2,  "line_type": "ayah", "is_centered": true, "first_word_id": 1,  "last_word_id": 4},
+      { "line_number": 3,  "line_type": "ayah", "is_centered": true, "first_word_id": 5,  "last_word_id": 13},
+      { "line_number": 4,  "line_type": "ayah", "is_centered": true, "first_word_id": 14, "last_word_id": 25},
+      { "line_number": 5,  "line_type": "ayah", "is_centered": true, "first_word_id": 26, "last_word_id": 36},
+
+      { "line_number": 6,  "line_type": "surah_name", "is_centered": true, "first_word_id": null, "last_word_id": null},
+      { "line_number": 7,  "line_type": "ayah", "is_centered": true, "first_word_id": 37, "last_word_id": 40},
+      { "line_number": 8,  "line_type": "ayah", "is_centered": true, "first_word_id": 41, "last_word_id": 48},
+      { "line_number": 9,  "line_type": "ayah", "is_centered": true, "first_word_id": 49, "last_word_id": 57},
+      { "line_number": 10, "line_type": "ayah", "is_centered": true, "first_word_id": 58, "last_word_id": 63},
+
+      { "line_number": 11, "line_type": "surah_name", "is_centered": true, "first_word_id": null, "last_word_id": null},
+      { "line_number": 12, "line_type": "ayah", "is_centered": true, "first_word_id": 64, "last_word_id": 67},
+      { "line_number": 13, "line_type": "ayah", "is_centered": true, "first_word_id": 68, "last_word_id": 80},
+      { "line_number": 14, "line_type": "ayah", "is_centered": true, "first_word_id": 81, "last_word_id": 89},
+      { "line_number": 15, "line_type": "ayah", "is_centered": true, "first_word_id": 90, "last_word_id": 95}
+    ],
+    "wordData": {
+      "1": "بِسْمِ", "2": "ٱللَّهِ", "3": "ٱلرَّحْمَـٰنِ", "4": "ٱلرَّحِيمِ",
+      "5": "قُلْ", "6": "يَـٰٓأَيُّهَا", "7": "ٱلْكَـٰفِرُونَ", "8": "1", "9": "لَآ", "10": "أَعْبُدُ", "11": "مَا", "12": "تَعْبُدُونَ", "13": "2",
+      "14": "وَلَآ", "15": "أَنتُمْ", "16": "عَـٰبِدُونَ","17": "مَآ", "18": "أَعْبُدُ", "19": "3", "20": "وَلَآ", "21": "أَنَا۠", "22": "عَابِدٌ", "23": "مَّا", "24": "عَبَدتُّمْ", "25": "4",
+      "26": "وَلَآ", "27": "أَنتُمْ", "28": "عَـٰبِدُونَ", "29": "مَآ", "30": "أَعْبُدُ", "31": "5", "32": "لَكُمْ", "33": "دِينُكُمْ", "34": "وَلِىَ", "35": "دِينِ", "36": "6",
+      
+      "37": "بِسْمِ", "38": "ٱللَّهِ", "39": "ٱلرَّحْمَـٰنِ", "40": "ٱلرَّحِيمِ",
+      "41": "إِذَا", "42": "جَآءَ", "43": "نَصْرُ", "44": "ٱللَّهِ", "45": "وَٱلْفَتْحُ", "46": "1", "47": "وَرَأَيْتَ", "48": "ٱلنَّاسَ",
+      "49": "يَدْخُلُونَ", "50": "فِى", "51": "دِينِ", "52": "ٱللَّهِ", "53": "أَفْوَاجًا", "54": "2", "55": "فَسَبِّحْ", "56": "بِحَمْدِ", "57": "رَبِّكَ",
+      "58": "وَٱسْتَغْفِرْهُ", "59": "ۚ", "60": "إِنَّهُۥ", "61": "كَانَ", "62": "تَوَّابًۢا", "63": "3",
+      
+      "64": "بِسْمِ", "65": "ٱللَّهِ", "66": "ٱلرَّحْمَـٰنِ", "67": "ٱلرَّحِيمِ",
+      "68": "تَبَّتْ", "69": "يَدَآ", "70": "أَبِى", "71": "لَهَبٍ", "72": "وَتَبَّ", "73": "1", "74": "مَآ", "75": "أَغْنَىٰ", "76": "عَنْهُ", "77": "مَالُهُۥ", "78": "وَمَا", "79": "كَسَبَ", "80": "2",
+      "81": "سَيَصْلَىٰ", "82": "نَارًا", "83": "ذَاتَ", "84": "لَهَبٍ", "85": "3", "86": "وَٱمْرَأَتُهُۥ", "87": "حَمَّالَةَ", "88": "ٱلْحَطَبِ", "89": "4",
+      "90": "فِى", "91": "جِيدِهَا", "92": "حَبْلٌ", "93": "مِّن", "94": "مَّسَدٍۭ", "95": "5"
+    }
+  }
+}

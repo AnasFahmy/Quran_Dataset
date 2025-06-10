@@ -1,0 +1,26 @@
+{
+"1": {
+  "surah_number": [1],
+  "pageData": [
+    {"line_number": 1, "line_type": "surah_name", "is_centered": true, "first_word_id": null, "last_word_id": null},
+    {"line_number": 2, "line_type": "ayah", "is_centered": true, "first_word_id": 1, "last_word_id": 5},
+    {"line_number": 3, "line_type": "ayah", "is_centered": true, "first_word_id": 6, "last_word_id": 10},
+    {"line_number": 4, "line_type": "ayah", "is_centered": true, "first_word_id": 11, "last_word_id": 13},
+    {"line_number": 5, "line_type": "ayah", "is_centered": true, "first_word_id": 14, "last_word_id": 17},
+    {"line_number": 6, "line_type": "ayah", "is_centered": true, "first_word_id": 18, "last_word_id": 22},
+    {"line_number": 7, "line_type": "ayah", "is_centered": true, "first_word_id": 23, "last_word_id": 26},
+    {"line_number": 8, "line_type": "ayah", "is_centered": true, "first_word_id": 27, "last_word_id": 36}
+  ],
+  "wordData": {
+    "1": "بِسْمِ", "2": "ٱللَّهِ", "3": "ٱلرَّحْمَـٰنِ", "4": "ٱلرَّحِيمِ",
+    "5": "1", "6": "ٱلْحَمْدُ", "7": "لِلَّهِ", "8": "رَبِّ",
+    "9": "ٱلْعَـٰلَمِينَ", "10": "2", "11": "ٱلرَّحْمَـٰنِ", "12": "ٱلرَّحِيمِ",
+    "13": "3", "14": "مَـٰلِكِ", "15": "يَوْمِ", "16": "ٱلدِّينِ",
+    "17": "4", "18": "إِيَّاكَ", "19": "نَعْبُدُ", "20": "وَإِيَّاكَ",
+    "21": "نَسْتَعِينُ", "22": "5", "23": "ٱهْدِنَا", "24": "ٱلصِّرَٰطَ",
+    "25": "ٱلْمُسْتَقِيمَ", "26": "6", "27": "صِرَٰطَ", "28": "ٱلَّذِينَ",
+    "29": "أَنْعَمْتَ", "30": "عَلَيْهِمْ", "31": "غَيْرِ", "32": "ٱلْمَغْضُوبِ",
+    "33": "عَلَيْهِمْ", "34": "وَلَا", "35": "ٱلضَّآلِّينَ", "36": "7"
+  }
+}
+}

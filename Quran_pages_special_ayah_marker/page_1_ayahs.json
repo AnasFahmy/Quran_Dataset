@@ -1,0 +1,64 @@
+{
+  "1": {
+    "surah_number": [
+    1
+],
+    "pageData": [
+      { "line_number": 1, "line_type": "surah_name", "first_word_id": null, "last_word_id": null, "text": null, "is_centered": true },
+      { "line_number": 2, "line_type": "ayah", "first_word_id": 1, "last_word_id": 5, "text": null, "is_centered": false },
+      { "line_number": 3, "line_type": "ayah", "first_word_id": 6, "last_word_id": 10, "text": null, "is_centered": false },
+      { "line_number": 4, "line_type": "ayah", "first_word_id": 11, "last_word_id": 17, "text": null, "is_centered": false },
+      { "line_number": 5, "line_type": "ayah", "first_word_id": 18, "last_word_id": 24, "text": null, "is_centered": false },
+      { "line_number": 6, "line_type": "ayah", "first_word_id": 25, "last_word_id": 30, "text": null, "is_centered": false },
+      { "line_number": 7, "line_type": "ayah", "first_word_id": 31, "last_word_id": 33, "text": null, "is_centered": false },
+      { "line_number": 8, "line_type": "ayah", "first_word_id": 34, "last_word_id": 36, "text": null, "is_centered": false }
+    ],
+    "ayahData": [
+      { "surahID": 1, "ayahID": 1, "ayah_begin": 1, "ayah_end": 5, "jozz": 1 },
+      { "surahID": 1, "ayahID": 2, "ayah_begin": 6, "ayah_end": 10, "jozz": 1 },
+      { "surahID": 1, "ayahID": 3, "ayah_begin": 11, "ayah_end": 13, "jozz": 1 },
+      { "surahID": 1, "ayahID": 4, "ayah_begin": 14, "ayah_end": 17, "jozz": 1 },
+      { "surahID": 1, "ayahID": 5, "ayah_begin": 18, "ayah_end": 22, "jozz": 1 },
+      { "surahID": 1, "ayahID": 6, "ayah_begin": 23, "ayah_end": 26, "jozz": 1 },
+      { "surahID": 1, "ayahID": 7, "ayah_begin": 27, "ayah_end": 36, "jozz": 1 }
+    ],
+    "wordData": {
+    "1": "بِسۡمِ",
+    "2": "ٱللَّهِ",
+    "3": "ٱلرَّحۡمَٰنِ",
+    "4": "ٱلرَّحِيمِ",
+    "5": "ﰀ",
+    "6": "ٱلۡحَمۡدُ",
+    "7": "لِلَّهِ",
+    "8": "رَبِّ",
+    "9": "ٱلۡعَٰلَمِينَ",
+    "10": "ﰁ",
+    "11": "ٱلرَّحۡمَٰنِ",
+    "12": "ٱلرَّحِيمِ",
+    "13": "ﰂ",
+    "14": "مَٰلِكِ",
+    "15": "يَوۡمِ",
+    "16": "ٱلدِّينِ",
+    "17": "ﰃ",
+    "18": "إِيَّاكَ",
+    "19": "نَعۡبُدُ",
+    "20": "وَإِيَّاكَ",
+    "21": "نَسۡتَعِينُ",
+    "22": "ﰄ",
+    "23": "ٱهۡدِنَا",
+    "24": "ٱلصِّرَٰطَ",
+    "25": "ٱلۡمُسۡتَقِيمَ",
+    "26": "ﰅ",
+    "27": "صِرَٰطَ",
+    "28": "ٱلَّذِينَ",
+    "29": "أَنۡعَمۡتَ",
+    "30": "عَلَيۡهِمۡ",
+    "31": "غَيۡرِ",
+    "32": "ٱلۡمَغۡضُوبِ",
+    "33": "عَلَيۡهِمۡ",
+    "34": "وَلَا",
+    "35": "ٱلضَّآلِّينَ",
+    "36": "ﰆ"
+}
+  }
+}

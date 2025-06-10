@@ -1,0 +1,67 @@
+{
+  "2": {
+    "surah_number": [
+    2
+],
+    "pageData": [
+      { "line_number": 1, "line_type": "surah_name", "first_word_id": null, "last_word_id": null, "text": null, "is_centered": true },
+      { "line_number": 2, "line_type": "basmallah", "first_word_id": null, "last_word_id": null, "text": null, "is_centered": true },
+      { "line_number": 3, "line_type": "ayah", "first_word_id": 37, "last_word_id": 42, "text": null, "is_centered": false },
+      { "line_number": 4, "line_type": "ayah", "first_word_id": 43, "last_word_id": 51, "text": null, "is_centered": false },
+      { "line_number": 5, "line_type": "ayah", "first_word_id": 52, "last_word_id": 62, "text": null, "is_centered": false },
+      { "line_number": 6, "line_type": "ayah", "first_word_id": 63, "last_word_id": 68, "text": null, "is_centered": false },
+      { "line_number": 7, "line_type": "ayah", "first_word_id": 69, "last_word_id": 73, "text": null, "is_centered": false },
+      { "line_number": 8, "line_type": "ayah", "first_word_id": 74, "last_word_id": 77, "text": null, "is_centered": false }
+    ],
+    "ayahData": [
+      { "surahID": 2, "ayahID": 1, "ayah_begin": 37, "ayah_end": 38, "jozz": 1 },
+      { "surahID": 2, "ayahID": 2, "ayah_begin": 39, "ayah_end": 46, "jozz": 1 },
+      { "surahID": 2, "ayahID": 3, "ayah_begin": 47, "ayah_end": 55, "jozz": 1 },
+      { "surahID": 2, "ayahID": 4, "ayah_begin": 56, "ayah_end": 68, "jozz": 1 },
+      { "surahID": 2, "ayahID": 5, "ayah_begin": 69, "ayah_end": 77, "jozz": 1 }
+    ],
+    "wordData": {
+    "37": "الٓمٓ",
+    "38": "ﰀ",
+    "39": "ذَٰلِكَ",
+    "40": "ٱلۡكِتَٰبُ",
+    "41": "لَا",
+    "42": "رَيۡبَۛ",
+    "43": "فِيهِۛ",
+    "44": "هُدٗى",
+    "45": "لِّلۡمُتَّقِينَ",
+    "46": "ﰁ",
+    "47": "ٱلَّذِينَ",
+    "48": "يُؤۡمِنُونَ",
+    "49": "بِٱلۡغَيۡبِ",
+    "50": "وَيُقِيمُونَ",
+    "51": "ٱلصَّلَوٰةَ",
+    "52": "وَمِمَّا",
+    "53": "رَزَقۡنَٰهُمۡ",
+    "54": "يُنفِقُونَ",
+    "55": "ﰂ",
+    "56": "وَٱلَّذِينَ",
+    "57": "يُؤۡمِنُونَ",
+    "58": "بِمَآ",
+    "59": "أُنزِلَ",
+    "60": "إِلَيۡكَ",
+    "61": "وَمَآ",
+    "62": "أُنزِلَ",
+    "63": "مِن",
+    "64": "قَبۡلِكَ",
+    "65": "وَبِٱلۡأٓخِرَةِ",
+    "66": "هُمۡ",
+    "67": "يُوقِنُونَ",
+    "68": "ﰃ",
+    "69": "أُوْلَٰٓئِكَ",
+    "70": "عَلَىٰ",
+    "71": "هُدٗى",
+    "72": "مِّن",
+    "73": "رَّبِّهِمۡۖ",
+    "74": "وَأُوْلَٰٓئِكَ",
+    "75": "هُمُ",
+    "76": "ٱلۡمُفۡلِحُونَ",
+    "77": "ﰄ"
+}
+  }
+}
