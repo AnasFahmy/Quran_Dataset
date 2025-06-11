@@ -63,7 +63,7 @@ Quran_Dataset/
 
 ```bash
 git clone https://github.com/AnasFahmy/Quran_Dataset.git
-
+```
 
 ## 🙌 Acknowledgments
 
