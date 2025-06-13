@@ -6,7 +6,7 @@ This dataset includes various forms of the Quranic text and page formats with or
 ---
 
 ## 📂 Dataset Structure
-
+```bash
 Quran_Dataset/
   Quran_pages_no_background/ # PNG images of Quran pages with backgrounds removed
   Quran_pages_ayah_json/ # Ayah locations and metadata in JSON format
@@ -28,7 +28,7 @@ Quran_Dataset/
   Quran_pages_lines_ayah_marker.txt # Line-wise ayah marker map
   Quran_pages_no_harakat.txt # Pages without diacritics
   Quran_pages_no_special_harakat.txt # Pages without special harakat
-
+```
 
 ---
 
